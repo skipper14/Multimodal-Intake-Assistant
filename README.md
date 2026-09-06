@@ -152,15 +152,15 @@ and the safety note in the same view.
 
 Evidence screenshots from the launched application:
 
-![Gradio image route result](week_5%20/ui_image_result.png)
-![Gradio audio route result](week_5%20/ui_audio_result.png)
+[![Gradio image route result](https://github.com/skipper14/Multimodal-Intake-Assistant/raw/main/week_5%20/ui_image_result.png)](https://github.com/skipper14/Multimodal-Intake-Assistant/blob/main/week_5%20/ui_image_result.png)
+[![Gradio audio route result](https://github.com/skipper14/Multimodal-Intake-Assistant/raw/main/week_5%20/ui_audio_result.png)](https://github.com/skipper14/Multimodal-Intake-Assistant/blob/main/week_5%20/ui_audio_result.png)
 
 ## Evidence Screenshots
 
 The repository includes visual corpus evidence that can be opened directly:
 
-![Malaria prevention retrieval corpus image](week_5%20/images/poster_01.png)
-![Malaria symptoms retrieval corpus image](week_5%20/images/poster_02.png)
+[![Malaria prevention retrieval corpus image](https://github.com/skipper14/Multimodal-Intake-Assistant/raw/main/week_5%20/images/poster_01.png)](https://github.com/skipper14/Multimodal-Intake-Assistant/blob/main/week_5%20/images/poster_01.png)
+[![Malaria symptoms retrieval corpus image](https://github.com/skipper14/Multimodal-Intake-Assistant/raw/main/week_5%20/images/poster_02.png)](https://github.com/skipper14/Multimodal-Intake-Assistant/blob/main/week_5%20/images/poster_02.png)
 
 The successful reproduction output is also observable from the build command:
 
